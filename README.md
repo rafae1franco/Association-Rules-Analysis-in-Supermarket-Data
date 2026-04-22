@@ -60,10 +60,10 @@ The analysis revealed important associations between products, allowing the crea
 ---
 
 ## 👨‍💻 Author / Group
-- Rafael Franco - 25897109
-- Pedro Botto - 26008504
-- Pedro Capoulade - 26007499
-- Beathriz Ivanoff - 23006404 
+- Rafael Franco
+- Pedro Botto
+- Pedro Capoulade
+- Beathriz Ivanoff
 
 ---
 
